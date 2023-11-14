@@ -27,18 +27,18 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
 <a href="https://www.linkedin.com/in/ghulam-ghaus-5b4ba9194/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<a href="https://t.me/rahneverd">
+<!-- <a href="https://t.me/rahneverd">
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
-</a>
+</a> -->
 
-<a href="mailto:rahneverd@gmail.com">
+<a href="mailto:ghulamghaus266@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
-<a href="https://www.instagram.com/rahneverd/">
+<!-- <a href="https://www.instagram.com/rahneverd/">
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
-</a>
+</a> -->
 
-<a href="https://api.whatsapp.com/send?phone=923379213529">
+<a href="https://api.whatsapp.com/send?phone=923067956164">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
