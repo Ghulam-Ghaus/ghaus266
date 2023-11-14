@@ -46,8 +46,8 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
 </a> -->
 
-<a href="https://www.upwork.com/freelancers/~011e30d05b7dc6bf09">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/rahneverd/rahneverd/main/upwork.ico" />
+<a href="https://www.upwork.com/freelancers/~018e9f6013ee023bf0">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/ghaus266/ghaus266/main/upwork.ico" />
 </a>
 </div>
 
