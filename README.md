@@ -24,7 +24,7 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
 
 <!-- <a href="https://www.facebook.com/></a> -->
 
-<a href="https://www.linkedin.com/in/ghulam-ghaus/">
+<a href="https://www.linkedin.com/in/ghulam-ghaus-5b4ba9194/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 <a href="https://t.me/rahneverd">
