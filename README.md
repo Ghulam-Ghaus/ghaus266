@@ -47,7 +47,7 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
 </a> -->
 
 <a href="https://www.upwork.com/freelancers/~018e9f6013ee023bf0">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/ghaus266/ghaus266/main/upwork.ico" />
+    <img width="32" height="32" src="https://raw.githubusercontent.com/rahneverd/rahneverd/main/upwork.ico" />
 </a>
 </div>
 
