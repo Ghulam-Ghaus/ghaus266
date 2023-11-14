@@ -22,11 +22,9 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.facebook.com/rahneverd/">
-    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
-</a>
+<!-- <a href="https://www.facebook.com/></a> -->
 
-<a href="https://www.linkedin.com/in/mowaisnizami/">
+<a href="https://www.linkedin.com/in/ghulam-ghaus/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 <a href="https://t.me/rahneverd">
