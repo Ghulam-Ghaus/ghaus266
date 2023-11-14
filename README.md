@@ -1,18 +1,3 @@
-<!--
-**rahneverd/rahneverd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on <a href="https://github.com/rahneverd/angular-weather-app-v2"> Angular Weather pp v2.0 </a>
-- 🌱 I’m currently learning <a href="https://angularjs.org/">AngularJS</a>
-- 👯 I’m looking to collaborate on <a href="https://angularjs.org/">AngularJS</a> Projects
-- 🤔 I’m looking for help with <a href="https://react.dev/">ReactJS </a>
-- 💬 Ask me about <a href="https://angularjs.org/">AngularJS</a>, <a href="[https://angularjs.org/](https://pptr.dev/)">Puppeteer</a>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hey there, I'm Ghulam Ghaus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <p>I have successfully completed over 10+ freelance projects, ranging from Data Science web solutions to Hospital Management Systems, User Management Systems, School Management Systems, and Human Resource Management projects. While some of these projects are publicly available, others remain private due to confidentiality reasons.
@@ -27,14 +12,14 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
 <a href="https://www.linkedin.com/in/ghulam-ghaus-5b4ba9194/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<!-- <a href="https://t.me/rahneverd">
+<!-- <a href="https://t.me/ghaus266">
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a> -->
 
 <a href="mailto:ghulamghaus266@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
-<!-- <a href="https://www.instagram.com/rahneverd/">
+<!-- <a href="https://www.instagram.com/ghaus266/">
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a> -->
 
@@ -42,7 +27,7 @@ Leveraging my extensive coding experience and strong problem-solving skills, I s
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<!-- <a href="https://www.fiverr.com/rahneverd">
+<!-- <a href="https://www.fiverr.com/ghaus266">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
 </a> -->
 
