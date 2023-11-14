@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey there, I'm Ghulam Ghaus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-<p>I have successfully completed over 12+ freelance projects, ranging from Data Science web solutions to Hospital Management Systems, User Management Systems, School Management Systems, and Human Resource Management projects. While some of these projects are publicly available, others remain private due to confidentiality reasons.
+<p>I have successfully completed over 10+ freelance projects, ranging from Data Science web solutions to Hospital Management Systems, User Management Systems, School Management Systems, and Human Resource Management projects. While some of these projects are publicly available, others remain private due to confidentiality reasons.
 </br></br>
 Leveraging my extensive coding experience and strong problem-solving skills, I specialize in transforming clients' concepts into robust products. My commitment to delivering high-quality work within specified timelines is evident in my track record. As a dedicated developer, I prioritize meeting project requirements and ensuring client satisfaction.</p>
 
@@ -119,7 +119,3 @@ Open Source Contributor from <b>Pakistan<b> 💚
 <br><br>
 ![](https://visitor-badge.glitch.me/badge?page_id=ghaus266.ghaus266)
 <br>
-"# ghaus266" 
-"# ghaus266" 
-"# ghaus266" 
-"# ghaus266" 
