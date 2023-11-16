@@ -88,7 +88,9 @@ Feel free to ask for more details or specific expertise!
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaus266&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 <br><br>
-Open Source Contributor from <b>Pakistan</b> 💚
+
+<!-- Open Source Contributor from <b>Pakistan</b> 💚 -->
+
 <br><br>
 ![](https://visitor-badge.glitch.me/badge?page_id=ghaus266.ghaus266)
 
